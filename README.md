@@ -46,6 +46,16 @@ npx expo start --android
 
 ---
 
+<img width="1048" height="875" alt="image" src="https://github.com/user-attachments/assets/f5e4a244-be49-40ba-b23f-3c78db633f90" />
+
+<img width="1060" height="951" alt="image" src="https://github.com/user-attachments/assets/d1d4f61c-86a5-45e5-9106-407d4c39f575" />
+
+<img width="1063" height="792" alt="image" src="https://github.com/user-attachments/assets/f59b9ace-efaf-4227-ba5d-e754f9d9e180" />
+
+<img width="1066" height="651" alt="image" src="https://github.com/user-attachments/assets/dab5605c-ed13-40b8-90fa-005cd1fab1f5" />
+
+
+---
 ## Google Play 公開手順
 
 ### 1. EAS CLI インストール
