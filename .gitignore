@@ -1,0 +1,41 @@
+# 依存関係
+node_modules/
+
+# 環境変数（シークレット含む可能性あり）
+.env
+.env.local
+.env.*.local
+
+# Expo / React Native
+.expo/
+dist/
+web-build/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# iOS
+ios/
+android/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code ローカル設定
+.claude/
+
+# エディタ
+.vscode/
+.idea/
+
+# ログ
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
